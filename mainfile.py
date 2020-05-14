@@ -5,3 +5,4 @@ open game
 loading game
 play
 end
+add some more graphicsmoe
